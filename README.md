@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Wellington Oscar, a Security SOC Engineer with Fraud Prevention background & courious for anything Tech. Reach out to me via 
+I'm Wellington Oscar, a Security SOC Engineer with Fraud Prevention background & curiosity for anything Tech. Reach out to me via 
 
 <a href="https://www.linkedin.com/in/wellingtonoscar/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
