@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Wellington Oscar, a Senior Cyber Analyst at the Bank of England working in Insider Risk Management, with a background spanning fraud intelligence, insider threat detection, DLP, and detection engineering. 15+ years across fraud, InfoSec, and cybersecurity in banking and fintech. Founder of CyberSages (EdTech) and an active OSINT investigator with Trace Labs Search Party. Reach out to me via 
+I'm Wellington Oscar, a Senior Cyber Analyst specialising in Insider Risk Management, with a background spanning fraud intelligence, insider threat detection, DLP, and detection engineering. 15+ years across fraud, InfoSec, and cybersecurity in banking and fintech. Founder of CyberSages (EdTech) and an active OSINT investigator with Trace Labs Search Party. Reach out to me via 
 
 <a href="https://www.linkedin.com/in/wellingtonoscar/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
