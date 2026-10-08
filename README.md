@@ -8,9 +8,6 @@ I'm Wellington Oscar, a Security SOC Engineer with Fraud Prevention background &
 <a href="https://github.com/woscar/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
-<a href="mailto:w_oscar@yahoo.com.br?Subject=Lets%20get%20in%20contact!" />
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg" />
-</a>
 
 <br>
 <br>
